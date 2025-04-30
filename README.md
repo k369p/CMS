@@ -72,9 +72,13 @@ The College Management System is a MERN Stack-based system with three different 
    npm start
    ```
 
-4. **Run the frontend server:**
+5. **Run the frontend server:**
 
    ```bash
    cd ../frontend
    npm start
    ```
+
+6. **Here is what the app looks like:**
+
+![App Screenshot](Login.png)
