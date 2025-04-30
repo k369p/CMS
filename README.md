@@ -41,7 +41,7 @@ The College Management System is a MERN Stack-based system with three different 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/krish-7104/College-Management-System
+   git clone https://github.com/k369p/School-MSs
    ```
 
 2. **Install dependencies:**
@@ -53,11 +53,7 @@ The College Management System is a MERN Stack-based system with three different 
    npm install
    ```
 
-3. **Setup environment variables:**
-
-  - I have provided .env.sample in both frontend and backend using that create .env file
-
-4. **Run the admin seeder:**
+3. **Run the admin seeder:**
 
    ```bash
    cd backend
@@ -69,22 +65,16 @@ The College Management System is a MERN Stack-based system with three different 
   
    - Using this login to the admin account and from admin you can add new faculty, student and admins!
 
-5. **Run the backend server:**
+4. **Run the backend server:**
 
    ```bash
    cd backend
    npm start
    ```
 
-6. **Run the frontend server:**
+4. **Run the frontend server:**
 
    ```bash
    cd ../frontend
    npm start
    ```
-
-## For Any Doubt Feel Free To Contact Me 🚀
-
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
