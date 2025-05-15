@@ -19,10 +19,6 @@ MongoDB
 
 ### 🟢 Common Screens
 
-#### Login
-
-- Secure multi-role login system.
-
 **Home_Page**
 ![Login Screen](assets/Common/HomePage.png)
 **Login**
