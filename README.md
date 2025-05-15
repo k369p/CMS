@@ -23,7 +23,12 @@ MongoDB
 
 - Secure multi-role login system.
 
-![Login Screen](images/common_login.png)
+**Home_Page**
+![Login Screen](assets/Common/HomePage.png)
+**Login**
+![Login Screen](assets/Common/Login.png)
+**LoginAS**
+![Login Screen](assets/Common/CLoginAs.png)
 
 ---
 
@@ -181,4 +186,4 @@ MongoDB
 **Financial Details**
 
 ![Parent Financial](assets/Parent/PFinancial.png)
-
+# CMS
